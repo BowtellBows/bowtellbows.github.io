@@ -1579,7 +1579,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		color: #483949;
+		color: #39493a;
 		line-height: 1.25em;
 	}
 
@@ -1608,7 +1608,7 @@
 
 	strong, b {
 		font-weight: 400;
-		color: #483949;
+		color: #3a4939;
 	}
 
 	em, i {
@@ -1990,7 +1990,7 @@
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #df7366;
+		background: #357930;
 		color: #fff;
 		text-align: center;
 		border-radius: 0.5em;
@@ -2012,7 +2012,7 @@
 		button:hover,
 		.button:hover {
 			color: #fff;
-			background: #ef8376;
+			background: #449e3e;
 		}
 
 		input[type="button"].alt,
@@ -2177,7 +2177,7 @@
 
 		body.homepage #header:after {
 			content: '';
-			background: #1C0920;
+			background: #0b2009;
 			display: block;
 			position: absolute;
 			left: 0;
@@ -2377,8 +2377,8 @@
 	#footer {
 		position: relative;
 		overflow: hidden;
-		padding: 6em 0 6em 0;
-		background: #2b252c;
+		padding: 0 0 2em 0;
+		background: #1b2d1b;
 		color: #fff;
 	}
 
@@ -2467,7 +2467,7 @@
 			}
 
 			.carousel .forward:hover:before, .carousel .backward:hover:before {
-				background-color: rgba(239, 131, 118, 0.75);
+				background-color: rgba(79, 152, 78, 0.75);
 			}
 
 		.carousel .forward {
