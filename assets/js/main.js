@@ -6,6 +6,10 @@
 
 (function($) {
 
+	lightbox.option({
+      'alwaysShowNavOnTouchDevices': true
+    });
+
 	var settings = {
 
 		// Carousels
